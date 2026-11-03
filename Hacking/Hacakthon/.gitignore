@@ -1,0 +1,17 @@
+# Environment variables (NEVER commit this)
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# PDF files / local test data
+*.pdf
+
+# Streamlit local settings
+.streamlit/

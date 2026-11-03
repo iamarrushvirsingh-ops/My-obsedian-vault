@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "9d2f539c939f8d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "26aa366ae3eafa7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2340d386bc41e720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Other findings/Linux commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux commands"
+            }
+          },
+          {
+            "id": "5f60d0a3880490e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Bounty/One shot course/IDOR and logic erros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDOR and logic erros"
+            }
+          },
+          {
+            "id": "f7a810edacae1489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practicals/juice shop/Juice shop findings ( Recon).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Juice shop findings ( Recon)"
+            }
+          },
+          {
+            "id": "ecb38c9ec3f56f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tryhackme/Pre security/Extending your network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extending your network"
+            }
+          },
+          {
+            "id": "b01f19559e2a7c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tryhackme/Random/Search Skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Search Skills"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7a359b260f8beae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f007ed8082349702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecccee32e41fc22c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81446d314a260d61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "firewall",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6da3babda25c7ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "978b9cd427348c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dfcb0ea05e3eed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fdbb4bc72e09a09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "76738310f3192477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9887b430b98cb666",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "136d243564783d83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "020d1f1cdc527744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b01f19559e2a7c13",
+  "lastOpenFiles": [
+    "Tryhackme/Random/Search Skills.md",
+    "Tryhackme/Pre security/Extending your network.md",
+    "Practicals/juice shop/Juice shop findings ( Recon).md",
+    "Linux/Other findings/Linux commands.md",
+    "Projects/Tools.md",
+    "Projects/SIH/SIH 26101.md",
+    "Hacakthon/BITSET GO/Pre-class.md",
+    "books and files/itact.pdf",
+    "itact.pdf",
+    "books and files/The bloodline of shadows.pdf",
+    "books and files/The bloodline of shadows.docx",
+    "books and files/S.R.Jena_CyberSecurityusingDataStructures.pdf",
+    "books and files/John_Boxall_-_Arduino_Workshop.pdf",
+    "Hacakthon/Example.py",
+    "Tryhackme/Pre security/DNS.md",
+    "What to work towards ?/Ha.md",
+    "Practicals/TCS soc sim/IAM.md",
+    "Practicals/TCS soc sim",
+    "Webpentesting/oneshot /Target Scope and Spidering.md",
+    "Webpentesting/oneshot /Spidering and DVWA.md",
+    "Webpentesting/oneshot ",
+    "Webpentesting/Untitled Folder",
+    "Hacakthon/BITSET GO/dicsord.png",
+    "Hacakthon/BITSET GO/arrow.png",
+    "Hacakthon/BITSET GO/pdf.jpg",
+    "Hacakthon/BITSET GO/hybrid.jpeg",
+    "Hacakthon/BITSET GO/clock.png",
+    "Hacakthon/BITSET GO/brain.png",
+    "Hacakthon/BITSET GO/Ideas for project.md",
+    "Linux/Linux for hackers book/Basics.md",
+    "Bug Bounty/One shot course/IDOR and logic erros.md",
+    "What to work towards ?/Docker/docker_cheat_sheet.md",
+    "Bug Bounty/One shot course/URL testing.md",
+    "Bug Bounty/One shot course/Recon and tools.md",
+    "Bug Bounty/One shot course/First note.md",
+    "Bug Bounty/Untitled.md",
+    "Linux/Linux for hackers book/Untitled 1.md",
+    "Webpentesting/XSS/Intro to XSS.md",
+    "Webpentesting/OAuth/OAuth vulnerabilities.md",
+    "Webpentesting/OAuth/OAuth and Open ID connect.md",
+    "Tryhackme/Random/Phishing.md",
+    "Tryhackme/Pre security/Windows CLI Basics.md",
+    "Tryhackme/Pre security/timeliinecloud.svg",
+    "Tryhackme/Pre security/robot-txt-keywords.png",
+    "Tryhackme/Pre security/regexing.png",
+    "Tryhackme/Pre security/ospreferencestat.png"
+  ]
+}

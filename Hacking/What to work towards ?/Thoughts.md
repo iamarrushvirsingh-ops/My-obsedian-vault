@@ -1,0 +1,2 @@
+-   can burps http://burp . sites downlaoading ca cert packets not be intercepted due to the http protocol and can malware not be downlaoded in the targets system using this flaw ?
+- 

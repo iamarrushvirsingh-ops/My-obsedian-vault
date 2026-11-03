@@ -1,0 +1,8 @@
+For penetration testing specifically, you'll need to become familiar with many tools and operating systems including but not limited to:
+
+Linux, Windows, MacOS
+Nmap: Network scanning and discovery
+Wireshark: Network protocol analysis
+Metasploit: Exploitation framework
+Burp Suite: Web application security testing
+John the Ripper: Password cracking

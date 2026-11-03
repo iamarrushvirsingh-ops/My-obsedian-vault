@@ -1,0 +1,269 @@
+﻿Institution ID,Institution,Region,Case ID,Category,Case status,Case Bureau / Cell,Action on (UTC),Action type,Performed by,From Bureau / Cell,To Bureau / Cell,Remarks
+1-9000002,A.B.C. Inst. of Tech.,North,CMP-2026-0204,Fee or refund,Received,Public Grievance Redressal Cell,2026-10-10 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-9000002,A.B.C. Inst. of Tech.,North,CMP-2026-0207,Fee,Received,Finance Bureau (example),2026-10-25 22:38,Received,Admin,,Finance Bureau (example),Case registered.
+1-9000001,ABC Institute of Technology,North,CMP-2026-0203,Infrastructure,Under Process,Regulation Bureau,2026-10-10 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-9000001,ABC Institute of Technology,North,CMP-2026-0203,Infrastructure,Under Process,Regulation Bureau,2026-10-26 04:02,Overlap dismissed,Admin,,,Overlap link with case CMP-2026-0207 was dismissed as not a real overlap.
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0007,Other,Under Process,Academic Bureau (example),2026-06-06 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0041,Other,Under Process,Academic Bureau (example),2026-09-29 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0059,Approval or affiliation,Disposed,Academic Bureau (example),2026-09-07 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0059,Approval or affiliation,Disposed,Academic Bureau (example),2026-09-15 10:00,disposed,ACB Officer 1,,,Case closed
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0066,Approval or affiliation,Pending,Academic Bureau (example),2026-09-01 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0074,Other,Pending,Academic Bureau (example),2026-09-15 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0085,Approval or affiliation,Transferred,Academic Bureau (example),2026-10-19 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0121,Other,Under Process,Academic Bureau (example),2026-07-04 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0129,Approval or affiliation,Under Process,Academic Bureau (example),2026-08-09 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0170,Faculty,Transferred,Academic Bureau (example),2026-08-22 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0180,Fee or refund,Transferred,Academic Bureau (example),2026-06-29 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0200,Approval or affiliation,Disposed,Academic Bureau (example),2026-06-12 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0200,Approval or affiliation,Disposed,Academic Bureau (example),2026-06-21 10:00,disposed,ACB Officer 2,,,Case closed
+1-1150461,Atwal Institute of Management,Central,CMP-2026-0206,Faculty,Received,Finance Bureau (example),2026-10-25 22:36,Received,Admin,,Finance Bureau (example),Case registered.
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0038,Fee or refund,Pending,Approval Bureau (example),2026-06-03 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0055,Fee or refund,Disposed,Approval Bureau (example),2026-08-15 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0055,Fee or refund,Disposed,Approval Bureau (example),2026-08-26 10:00,disposed,APB Officer 2,,,Case closed
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0062,Infrastructure,Pending,Approval Bureau (example),2026-07-13 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0135,Faculty,Under Process,Approval Bureau (example),2026-06-21 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0149,Approval or affiliation,Disposed,Approval Bureau (example),2026-09-07 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0149,Approval or affiliation,Disposed,Approval Bureau (example),2026-09-14 10:00,disposed,APB Officer 2,,,Case closed
+1-1079190,Bhagat College of Pharmacy,South,CMP-2026-0151,Approval or affiliation,Under Process,Approval Bureau (example),2026-09-17 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0008,Other,Disposed,Approval Bureau (example),2026-07-30 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0008,Other,Disposed,Approval Bureau (example),2026-08-02 10:00,disposed,APB Officer 1,,,Case closed
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0021,Faculty,Pending,Approval Bureau (example),2026-06-01 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0024,Fee or refund,Pending,Approval Bureau (example),2026-07-31 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0064,Other,Transferred,Approval Bureau (example),2026-07-14 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0095,Approval or affiliation,Disposed,Approval Bureau (example),2026-09-05 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0095,Approval or affiliation,Disposed,Approval Bureau (example),2026-09-07 10:00,disposed,APB Officer 2,,,Case closed
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0132,Infrastructure,Transferred,Approval Bureau (example),2026-09-11 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0136,Other,Received,Approval Bureau (example),2026-10-03 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1166299,Dar College of Pharmacy,Central,CMP-2026-0179,Approval or affiliation,Received,Approval Bureau (example),2026-06-04 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1110866,Dhar Institute of Management,East,CMP-2026-0003,Infrastructure,Under Process,Finance Bureau (example),2026-06-04 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1110866,Dhar Institute of Management,East,CMP-2026-0075,Faculty,Disposed,Finance Bureau (example),2026-08-16 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1110866,Dhar Institute of Management,East,CMP-2026-0075,Faculty,Disposed,Finance Bureau (example),2026-09-01 10:00,disposed,FIN Officer 2,,,Case closed
+1-1110866,Dhar Institute of Management,East,CMP-2026-0143,Faculty,Pending,Finance Bureau (example),2026-08-12 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1110866,Dhar Institute of Management,East,CMP-2026-0145,Approval or affiliation,Under Process,Finance Bureau (example),2026-06-17 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1110866,Dhar Institute of Management,East,CMP-2026-0186,Infrastructure,Received,Finance Bureau (example),2026-07-23 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0032,Infrastructure,Received,Public Grievance Redressal Cell,2026-05-29 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0046,Other,Disposed,Public Grievance Redressal Cell,2026-06-04 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0046,Other,Disposed,Public Grievance Redressal Cell,2026-06-04 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0110,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-08-17 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0110,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-08-26 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0112,Faculty,Under Process,Public Grievance Redressal Cell,2026-06-24 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0113,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-11 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0113,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-18 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0123,Faculty,Transferred,Public Grievance Redressal Cell,2026-08-19 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0131,Other,Under Process,Public Grievance Redressal Cell,2026-10-02 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0154,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-09-16 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0154,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-09-18 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0173,Faculty,Under Process,Public Grievance Redressal Cell,2026-06-09 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0175,Fee or refund,Pending,Public Grievance Redressal Cell,2026-10-06 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1182137,Gandhi Institute of Technology,Central,CMP-2026-0195,Approval or affiliation,Pending,Public Grievance Redressal Cell,2026-07-25 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-9000003,Greenfield College of Engineering,West,CMP-2026-0201,Faculty,Under Process,Public Grievance Redressal Cell,2026-10-07 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-9000003,Greenfield College of Engineering,West,CMP-2026-0202,Approval or affiliation,Under Process,Regulation Bureau,2026-10-20 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1023757,Guha Institute of Technology,Central,CMP-2026-0023,Infrastructure,Pending,Regulation Bureau,2026-06-28 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1023757,Guha Institute of Technology,Central,CMP-2026-0047,Faculty,Pending,Regulation Bureau,2026-07-23 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1023757,Guha Institute of Technology,Central,CMP-2026-0058,Infrastructure,Disposed,Regulation Bureau,2026-08-06 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1023757,Guha Institute of Technology,Central,CMP-2026-0058,Infrastructure,Disposed,Regulation Bureau,2026-08-19 10:00,disposed,RB Officer 2,,,Case closed
+1-1205894,Jani College of Engineering,North,CMP-2026-0065,Infrastructure,Under Process,Public Grievance Redressal Cell,2026-07-07 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1205894,Jani College of Engineering,North,CMP-2026-0068,Infrastructure,Under Process,Public Grievance Redressal Cell,2026-09-05 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1205894,Jani College of Engineering,North,CMP-2026-0089,Approval or affiliation,Received,Public Grievance Redressal Cell,2026-06-09 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1205894,Jani College of Engineering,North,CMP-2026-0100,Faculty,Pending,Public Grievance Redressal Cell,2026-06-14 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1205894,Jani College of Engineering,North,CMP-2026-0138,Other,Pending,Public Grievance Redressal Cell,2026-10-12 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1174218,Johal Institute of Technology,West,CMP-2026-0002,Faculty,Escalated,Finance Bureau (example),2026-07-16 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1174218,Johal Institute of Technology,West,CMP-2026-0141,Fee or refund,Received,Finance Bureau (example),2026-08-25 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1174218,Johal Institute of Technology,West,CMP-2026-0144,Approval or affiliation,Disposed,Finance Bureau (example),2026-06-27 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1174218,Johal Institute of Technology,West,CMP-2026-0144,Approval or affiliation,Disposed,Finance Bureau (example),2026-07-04 10:00,disposed,FIN Officer 2,,,Case closed
+1-1174218,Johal Institute of Technology,West,CMP-2026-0157,Other,Received,Finance Bureau (example),2026-10-08 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0005,Fee or refund,Disposed,Finance Bureau (example),2026-09-27 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0005,Fee or refund,Disposed,Finance Bureau (example),2026-10-01 10:00,disposed,FIN Officer 2,,,Case closed
+1-1126704,Kaur Institute of Management,North,CMP-2026-0011,Faculty,Under Process,Finance Bureau (example),2026-09-14 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0033,Fee or refund,Disposed,Finance Bureau (example),2026-10-05 10:00,received,FIN Officer 1,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0033,Fee or refund,Disposed,Finance Bureau (example),2026-10-10 10:00,disposed,FIN Officer 1,,,Case closed
+1-1126704,Kaur Institute of Management,North,CMP-2026-0036,Infrastructure,Under Process,Finance Bureau (example),2026-08-06 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0133,Infrastructure,Under Process,Finance Bureau (example),2026-05-29 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0139,Other,Disposed,Finance Bureau (example),2026-07-04 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1126704,Kaur Institute of Management,North,CMP-2026-0139,Other,Disposed,Finance Bureau (example),2026-07-05 10:00,disposed,FIN Officer 2,,,Case closed
+1-1126704,Kaur Institute of Management,North,CMP-2026-0174,Faculty,Under Process,Finance Bureau (example),2026-06-24 10:00,received,FIN Officer 2,,Finance Bureau (example),Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0019,Fee or refund,Received,Public Grievance Redressal Cell,2026-10-10 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0035,Other,Received,Public Grievance Redressal Cell,2026-05-29 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0096,Fee or refund,Escalated,Public Grievance Redressal Cell,2026-08-09 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0148,Faculty,Pending,Public Grievance Redressal Cell,2026-06-24 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0150,Faculty,Disposed,Public Grievance Redressal Cell,2026-07-12 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0150,Faculty,Disposed,Public Grievance Redressal Cell,2026-07-13 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0163,Faculty,Pending,Public Grievance Redressal Cell,2026-08-21 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0168,Infrastructure,Received,Public Grievance Redressal Cell,2026-07-16 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0172,Faculty,Received,Public Grievance Redressal Cell,2026-08-11 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0184,Approval or affiliation,Escalated,Public Grievance Redressal Cell,2026-06-22 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1142542,Kaur Institute of Technology,East,CMP-2026-0196,Approval or affiliation,Pending,Public Grievance Redressal Cell,2026-10-14 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0010,Other,Disposed,Approval Bureau (example),2026-08-10 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0010,Other,Disposed,Approval Bureau (example),2026-08-30 10:00,disposed,APB Officer 1,,,Case closed
+1-1190056,Keer Institute of Management,Central,CMP-2026-0012,Other,Under Process,Public Grievance Redressal Cell,2026-10-21 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0012,Other,Under Process,Public Grievance Redressal Cell,2026-10-27 10:47,Remark,Admin,,,Test remark
+1-1190056,Keer Institute of Management,Central,CMP-2026-0012,Other,Under Process,Public Grievance Redressal Cell,2026-10-27 10:48,Transfer,Admin,Approval Bureau (example),Public Grievance Redressal Cell,
+1-1190056,Keer Institute of Management,Central,CMP-2026-0082,Approval or affiliation,Pending,Approval Bureau (example),2026-06-08 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0088,Infrastructure,Disposed,Approval Bureau (example),2026-07-10 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0088,Infrastructure,Disposed,Approval Bureau (example),2026-07-18 10:00,disposed,APB Officer 2,,,Case closed
+1-1190056,Keer Institute of Management,Central,CMP-2026-0093,Faculty,Transferred,Approval Bureau (example),2026-09-26 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0103,Other,Transferred,Approval Bureau (example),2026-07-20 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0159,Approval or affiliation,Under Process,Approval Bureau (example),2026-08-10 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0176,Approval or affiliation,Disposed,Approval Bureau (example),2026-06-05 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1190056,Keer Institute of Management,Central,CMP-2026-0176,Approval or affiliation,Disposed,Approval Bureau (example),2026-06-16 10:00,disposed,APB Officer 1,,,Case closed
+1-1190056,Keer Institute of Management,Central,CMP-2026-0191,Other,Received,Approval Bureau (example),2026-09-18 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1047514,Kunda Institute of Technology,North,CMP-2026-0080,Approval or affiliation,Disposed,Academic Bureau (example),2026-05-29 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1047514,Kunda Institute of Technology,North,CMP-2026-0080,Approval or affiliation,Disposed,Academic Bureau (example),2026-05-29 10:00,disposed,ACB Officer 2,,,Case closed
+1-1047514,Kunda Institute of Technology,North,CMP-2026-0140,Other,Under Process,Academic Bureau (example),2026-08-13 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0009,Faculty,Pending,Approval Bureau (example),2026-08-19 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0043,Infrastructure,Under Process,Approval Bureau (example),2026-08-19 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0054,Faculty,Received,Approval Bureau (example),2026-09-06 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0094,Other,Received,Approval Bureau (example),2026-08-07 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0109,Approval or affiliation,Transferred,Approval Bureau (example),2026-07-29 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0126,Approval or affiliation,Received,Approval Bureau (example),2026-08-27 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0142,Other,Pending,Approval Bureau (example),2026-08-29 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1071271,Lata College of Engineering,Central,CMP-2026-0197,Fee or refund,Received,Approval Bureau (example),2026-06-25 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0013,Faculty,Received,Public Grievance Redressal Cell,2026-06-02 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0050,Other,Disposed,Public Grievance Redressal Cell,2026-08-26 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0050,Other,Disposed,Public Grievance Redressal Cell,2026-08-31 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0061,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-02 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0061,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-21 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0090,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-10-15 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0090,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-10-15 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0114,Infrastructure,Received,Public Grievance Redressal Cell,2026-06-11 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1087109,Madan College of Pharmacy,Central,CMP-2026-0178,Other,Under Process,Public Grievance Redressal Cell,2026-07-22 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1055433,Mangat College of Engineering,South,CMP-2026-0018,Fee or refund,Under Process,Approval Bureau (example),2026-06-06 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1055433,Mangat College of Engineering,South,CMP-2026-0025,Faculty,Pending,Approval Bureau (example),2026-09-20 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1055433,Mangat College of Engineering,South,CMP-2026-0040,Infrastructure,Under Process,Approval Bureau (example),2026-06-08 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1055433,Mangat College of Engineering,South,CMP-2026-0083,Faculty,Under Process,Approval Bureau (example),2026-06-23 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1055433,Mangat College of Engineering,South,CMP-2026-0091,Fee or refund,Transferred,Approval Bureau (example),2026-08-25 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0026,Approval or affiliation,Disposed,Approval Bureau (example),2026-10-06 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0026,Approval or affiliation,Disposed,Approval Bureau (example),2026-10-25 22:27,Status change,Admin,,,
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0124,Faculty,Transferred,Approval Bureau (example),2026-09-15 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0162,Other,Disposed,Approval Bureau (example),2026-08-25 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0162,Other,Disposed,Approval Bureau (example),2026-09-09 10:00,disposed,APB Officer 1,,,Case closed
+1-1039595,Memon College of Pharmacy,North,CMP-2026-0205,Fee,Received,Academic Bureau (example),2026-10-25 22:18,Received,Admin,,Academic Bureau (example),Case registered.
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0016,Other,Disposed,Regulation Bureau,2026-09-04 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0016,Other,Disposed,Regulation Bureau,2026-09-13 10:00,disposed,RB Officer 1,,,Case closed
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0070,Approval or affiliation,Pending,Regulation Bureau,2026-08-24 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0079,Infrastructure,Pending,Regulation Bureau,2026-07-11 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0098,Fee or refund,Pending,Regulation Bureau,2026-07-30 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0125,Other,Pending,Regulation Bureau,2026-10-17 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0166,Approval or affiliation,Disposed,Regulation Bureau,2026-09-05 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0166,Approval or affiliation,Disposed,Regulation Bureau,2026-09-17 10:00,disposed,RB Officer 2,,,Case closed
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0185,Fee or refund,Escalated,Regulation Bureau,2026-08-31 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0198,Approval or affiliation,Disposed,Regulation Bureau,2026-07-04 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1102947,Mohanty College of Engineering,West,CMP-2026-0198,Approval or affiliation,Disposed,Regulation Bureau,2026-07-06 10:00,disposed,RB Officer 1,,,Case closed
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0045,Infrastructure,Disposed,Regulation Bureau,2026-08-19 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0045,Infrastructure,Disposed,Regulation Bureau,2026-08-24 10:00,disposed,RB Officer 1,,,Case closed
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0060,Fee or refund,Pending,Regulation Bureau,2026-06-10 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0152,Other,Disposed,Regulation Bureau,2026-08-02 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0152,Other,Disposed,Regulation Bureau,2026-08-05 10:00,disposed,RB Officer 1,,,Case closed
+1-1007919,Nadkarni Institute of Management,South,CMP-2026-0160,Fee or refund,Under Process,Regulation Bureau,2026-07-22 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0004,Other,Under Process,Public Grievance Redressal Cell,2026-08-30 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0030,Infrastructure,Pending,Public Grievance Redressal Cell,2026-06-05 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0037,Faculty,Escalated,Public Grievance Redressal Cell,2026-08-10 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0042,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-09-16 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0042,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-09-24 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0057,Other,Disposed,Public Grievance Redressal Cell,2026-08-19 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0057,Other,Disposed,Public Grievance Redressal Cell,2026-08-20 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0077,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-10-05 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0077,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-10-09 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0087,Infrastructure,Under Process,Public Grievance Redressal Cell,2026-08-03 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0101,Approval or affiliation,Pending,Public Grievance Redressal Cell,2026-08-18 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0111,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-06 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0111,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-08-09 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0115,Fee or refund,Transferred,Public Grievance Redressal Cell,2026-09-23 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0130,Approval or affiliation,Received,Public Grievance Redressal Cell,2026-10-15 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0137,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-07-14 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0137,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-07-30 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0164,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-06-08 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0164,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-06-13 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0194,Faculty,Disposed,Public Grievance Redressal Cell,2026-06-13 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1063352,Panchal Institute of Technology,Central,CMP-2026-0194,Faculty,Disposed,Public Grievance Redressal Cell,2026-06-16 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0015,Other,Under Process,Academic Bureau (example),2026-06-12 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0031,Infrastructure,Under Process,Academic Bureau (example),2026-10-11 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0031,Infrastructure,Under Process,Academic Bureau (example),2026-10-26 12:13,Remark,Admin,,,Hello this is a test remark
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0073,Other,Disposed,Academic Bureau (example),2026-08-05 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0073,Other,Disposed,Academic Bureau (example),2026-08-19 10:00,disposed,ACB Officer 2,,,Case closed
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0078,Approval or affiliation,Escalated,Academic Bureau (example),2026-09-01 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0128,Faculty,Received,Academic Bureau (example),2026-09-13 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1031676,Pandey Institute of Technology,Central,CMP-2026-0161,Other,Pending,Academic Bureau (example),2026-09-09 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0014,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-06-11 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0014,Fee or refund,Disposed,Public Grievance Redressal Cell,2026-06-15 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1015838,Pillay College of Engineering,South,CMP-2026-0020,Infrastructure,Received,Public Grievance Redressal Cell,2026-08-26 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0028,Faculty,Pending,Public Grievance Redressal Cell,2026-06-24 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0034,Faculty,Pending,Public Grievance Redressal Cell,2026-06-02 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0039,Other,Under Process,Public Grievance Redressal Cell,2026-07-28 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0119,Faculty,Under Process,Public Grievance Redressal Cell,2026-06-03 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0120,Fee or refund,Transferred,Public Grievance Redressal Cell,2026-07-11 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0156,Other,Under Process,Public Grievance Redressal Cell,2026-08-05 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0165,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-08-10 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0165,Infrastructure,Disposed,Public Grievance Redressal Cell,2026-08-30 10:00,disposed,PGRC Officer 2,,,Case closed
+1-1015838,Pillay College of Engineering,South,CMP-2026-0177,Fee or refund,Under Process,Public Grievance Redressal Cell,2026-09-24 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0190,Other,Under Process,Public Grievance Redressal Cell,2026-08-27 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1015838,Pillay College of Engineering,South,CMP-2026-0199,Other,Under Process,Public Grievance Redressal Cell,2026-09-23 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0069,Faculty,Disposed,Approval Bureau (example),2026-10-07 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0069,Faculty,Disposed,Approval Bureau (example),2026-10-21 10:00,disposed,APB Officer 1,,,Case closed
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0104,Infrastructure,Under Process,Approval Bureau (example),2026-09-01 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0106,Fee or refund,Under Process,Approval Bureau (example),2026-07-13 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0169,Other,Disposed,Approval Bureau (example),2026-08-13 10:00,received,APB Officer 1,,Approval Bureau (example),Complaint received
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0169,Other,Disposed,Approval Bureau (example),2026-08-20 10:00,disposed,APB Officer 1,,,Case closed
+1-1000000,Prabhakar Institute of Technology,North,CMP-2026-0193,Faculty,Transferred,Approval Bureau (example),2026-10-21 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0001,Approval or affiliation,Under Process,Regulation Bureau,2026-09-01 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0027,Fee or refund,Escalated,Regulation Bureau,2026-06-09 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0049,Infrastructure,Under Process,Regulation Bureau,2026-08-23 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0051,Approval or affiliation,Received,Regulation Bureau,2026-08-01 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0052,Infrastructure,Under Process,Regulation Bureau,2026-09-28 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0072,Fee or refund,Transferred,Regulation Bureau,2026-09-24 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0097,Other,Disposed,Regulation Bureau,2026-07-29 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0097,Other,Disposed,Regulation Bureau,2026-08-15 10:00,disposed,RB Officer 1,,,Case closed
+1-1197975,Raju Institute of Management,Central,CMP-2026-0105,Infrastructure,Under Process,Regulation Bureau,2026-08-16 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0108,Fee or refund,Under Process,Regulation Bureau,2026-07-14 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0127,Approval or affiliation,Under Process,Regulation Bureau,2026-08-29 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0147,Fee or refund,Under Process,Regulation Bureau,2026-08-10 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0189,Faculty,Disposed,Regulation Bureau,2026-06-03 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1197975,Raju Institute of Management,Central,CMP-2026-0189,Faculty,Disposed,Regulation Bureau,2026-06-09 10:00,disposed,RB Officer 2,,,Case closed
+1-1118785,Rout College of Engineering,South,CMP-2026-0022,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-09-07 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0022,Approval or affiliation,Disposed,Public Grievance Redressal Cell,2026-09-10 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1118785,Rout College of Engineering,South,CMP-2026-0044,Fee or refund,Received,Public Grievance Redressal Cell,2026-07-09 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0067,Fee or refund,Under Process,Public Grievance Redressal Cell,2026-08-01 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0076,Infrastructure,Pending,Public Grievance Redressal Cell,2026-08-13 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0092,Other,Disposed,Public Grievance Redressal Cell,2026-06-28 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0092,Other,Disposed,Public Grievance Redressal Cell,2026-07-06 10:00,disposed,PGRC Officer 1,,,Case closed
+1-1118785,Rout College of Engineering,South,CMP-2026-0117,Approval or affiliation,Under Process,Public Grievance Redressal Cell,2026-10-12 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0155,Infrastructure,Transferred,Public Grievance Redressal Cell,2026-07-16 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1118785,Rout College of Engineering,South,CMP-2026-0182,Fee or refund,Under Process,Public Grievance Redressal Cell,2026-06-10 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1134623,Shere Institute of Technology,West,CMP-2026-0048,Approval or affiliation,Under Process,Public Grievance Redressal Cell,2026-08-08 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1134623,Shere Institute of Technology,West,CMP-2026-0107,Approval or affiliation,Transferred,Public Grievance Redressal Cell,2026-06-22 10:00,received,PGRC Officer 1,,Public Grievance Redressal Cell,Complaint received
+1-1134623,Shere Institute of Technology,West,CMP-2026-0192,Faculty,Under Process,Public Grievance Redressal Cell,2026-10-19 10:00,received,PGRC Officer 2,,Public Grievance Redressal Cell,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0029,Fee or refund,Under Process,Academic Bureau (example),2026-10-25 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0029,Fee or refund,Under Process,Academic Bureau (example),2026-10-25 21:58,Remark,Admin,,,This is a test remark
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0029,Fee or refund,Under Process,Academic Bureau (example),2026-10-25 21:59,Transfer,Admin,Regulation Bureau,Academic Bureau (example),This is a test transfer
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0053,Approval or affiliation,Under Process,Regulation Bureau,2026-06-30 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0081,Approval or affiliation,Received,Regulation Bureau,2026-07-27 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0099,Approval or affiliation,Under Process,Regulation Bureau,2026-07-25 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0102,Fee or refund,Under Process,Regulation Bureau,2026-07-02 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0116,Fee or refund,Disposed,Regulation Bureau,2026-06-01 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0116,Fee or refund,Disposed,Regulation Bureau,2026-06-10 10:00,disposed,RB Officer 2,,,Case closed
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0118,Fee or refund,Disposed,Regulation Bureau,2026-07-15 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0118,Fee or refund,Disposed,Regulation Bureau,2026-07-30 10:00,disposed,RB Officer 2,,,Case closed
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0122,Infrastructure,Transferred,Regulation Bureau,2026-10-10 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0146,Infrastructure,Disposed,Regulation Bureau,2026-07-11 10:00,received,RB Officer 1,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0146,Infrastructure,Disposed,Regulation Bureau,2026-07-21 10:00,disposed,RB Officer 1,,,Case closed
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0153,Fee or refund,Pending,Regulation Bureau,2026-07-01 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0167,Fee or refund,Under Process,Regulation Bureau,2026-06-01 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1213813,Tiwari Institute of Technology,South,CMP-2026-0188,Fee or refund,Escalated,Regulation Bureau,2026-10-20 10:00,received,RB Officer 2,,Regulation Bureau,Complaint received
+1-1095028,Walla Institute of Management,North,CMP-2026-0017,Approval or affiliation,Disposed,Approval Bureau (example),2026-07-02 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1095028,Walla Institute of Management,North,CMP-2026-0017,Approval or affiliation,Disposed,Approval Bureau (example),2026-07-05 10:00,disposed,APB Officer 2,,,Case closed
+1-1095028,Walla Institute of Management,North,CMP-2026-0063,Other,Under Process,Approval Bureau (example),2026-07-10 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1095028,Walla Institute of Management,North,CMP-2026-0084,Approval or affiliation,Disposed,Approval Bureau (example),2026-06-28 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1095028,Walla Institute of Management,North,CMP-2026-0084,Approval or affiliation,Disposed,Approval Bureau (example),2026-07-02 10:00,disposed,APB Officer 2,,,Case closed
+1-1095028,Walla Institute of Management,North,CMP-2026-0183,Infrastructure,Escalated,Approval Bureau (example),2026-06-09 10:00,received,APB Officer 2,,Approval Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0006,Approval or affiliation,Transferred,Academic Bureau (example),2026-07-19 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0056,Other,Under Process,Academic Bureau (example),2026-10-18 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0071,Fee or refund,Disposed,Academic Bureau (example),2026-08-30 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0071,Fee or refund,Disposed,Academic Bureau (example),2026-09-04 10:00,disposed,ACB Officer 1,,,Case closed
+1-1158380,Yadav Institute of Management,North,CMP-2026-0086,Faculty,Disposed,Academic Bureau (example),2026-09-09 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0086,Faculty,Disposed,Academic Bureau (example),2026-09-10 10:00,disposed,ACB Officer 2,,,Case closed
+1-1158380,Yadav Institute of Management,North,CMP-2026-0134,Fee or refund,Pending,Academic Bureau (example),2026-07-13 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0158,Faculty,Disposed,Academic Bureau (example),2026-07-06 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0158,Faculty,Disposed,Academic Bureau (example),2026-07-09 10:00,disposed,ACB Officer 2,,,Case closed
+1-1158380,Yadav Institute of Management,North,CMP-2026-0171,Fee or refund,Under Process,Academic Bureau (example),2026-07-05 10:00,received,ACB Officer 1,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0181,Fee or refund,Under Process,Academic Bureau (example),2026-10-16 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received
+1-1158380,Yadav Institute of Management,North,CMP-2026-0187,Fee or refund,Under Process,Academic Bureau (example),2026-09-07 10:00,received,ACB Officer 2,,Academic Bureau (example),Complaint received

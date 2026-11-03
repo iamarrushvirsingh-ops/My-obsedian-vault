@@ -1,0 +1,3 @@
+- Didn't take college near home . 
+- Because I will be stuck to only one place and echo chamber  .
+- 
