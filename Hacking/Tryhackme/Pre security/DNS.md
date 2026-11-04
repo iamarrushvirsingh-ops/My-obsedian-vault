@@ -1,5 +1,3 @@
-
-
 - Domain name system .
 
 # TLD
@@ -53,4 +51,13 @@
 
 # Workflow 
 - What happens when a request is made ?
-- When you first make a request 
+- When you first make a request the computer checks if you have recently made the request and if the domain name is in the computers dns cache . 
+- If not then a request is made to your Recursive DNS server . 
+- A recursive DNS server is usually provided by your isp provider but you can choose your own as well . 
+- This server has its own cache , which is searched first if a request is recieved to the server , if there are no matches then the  internets Root DNS server is sent a request . 
+- The internets root dns server redirects you to the correct TLD ( top level domain ) server for your request . 
+- The TLD server holds records as to where to find the authoritative server to answer your request . 
+- The authoritative server is also known as the nameserver of that domain . 
+- You will often find multiple nameservers for a domain , in case one goes down . 
+- An authoritative server is responsible for storing DNS records for a particular domain name and is where you update any changes in the DNS records .  
+-  Every DNS record comes with a TTL (time to live ) which is measured in seconds . 
